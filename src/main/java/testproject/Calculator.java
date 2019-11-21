@@ -11,7 +11,7 @@ public class Calculator {
      * @param y Second argument
      * @return Sum of the two numbers
      */
-    public static int sum(int x, int y) {
+    public static int sum(string x, int y) {
         return x + y;
     }
 
